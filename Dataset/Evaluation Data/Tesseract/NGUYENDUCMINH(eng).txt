@@ -1,0 +1,18 @@
+Original:
+"Full name: NGUYEN DUC MINH
+DoB: 14/03/2002 Gender: Male
+Intake: 2020-2023 Course: Bachelor
+Major: Information Technology and Communication
+
+BI11-163
+Validity: 31/10/2023"
+
+OCR generate:
+"Full name:NGUYEN DUC MINH
+
+DoB: 14/03/2002 Gender: Male
+Intake: 2020-2023 Course: Bachelor
+SN Major: —_[nformation Technology and Communication
+
+BI11-163
+Validity: 31/10/2023"

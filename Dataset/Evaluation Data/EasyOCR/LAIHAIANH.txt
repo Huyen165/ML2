@@ -1,14 +1,14 @@
-Gốc:
-Họ và tên: LẠI HẢI ANH
+Original:
+"Họ và tên: LẠI HẢI ANH
 Ngày sinh: 15/01/2002 Giới tính: Nữ
 Khóa học: 2020-2024 Hệ:Cử nhân
 Ngành học: An toàn thông tin
 
 BA11-004 
-HSD: 31/10/2024
+HSD: 31/10/2024"
 
-OCR:
-Họ và tên: LẠI HẢI ANH
+OCR generate:
+"Họ và tên: LẠI HẢI ANH
 
 Ngày sinh: 15/01/2002 Giới tinh: Nar
 Khóa học: 2020-2024 Hệ:Cử nhân
@@ -16,4 +16,4 @@ Ngành học: An toàn thông tin
 
 BA11-004 4
 HSD: 31/10/2024 :
-r ]
+r ]"

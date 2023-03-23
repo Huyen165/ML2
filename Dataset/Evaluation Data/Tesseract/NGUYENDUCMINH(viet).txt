@@ -1,14 +1,14 @@
-Gốc:
-Họ và tên: NGUYỄN ĐỨC MINH
+Original:
+"Họ và tên: NGUYỄN ĐỨC MINH
 Ngày sinh: 14/03/2002 Giới tính: Nam
 Khóa học: 2020-2023 Hệ:Cử nhân
 Ngành học: Công nghệ thông tin và Truyền thông
 
 BI11-163
-HSD: 31/10/2023
+HSD: 31/10/2023"
 
-OCR:
-BI1-163
+OCR generate:
+"BI1-163
 HSD: 31/10/2023
 
 THẺ SINH VIÊN
@@ -17,4 +17,4 @@ Họ và tên: NGUYÊN ĐỨC MINH
 
 Ngày sinh: 14/03/2002 Giới tính:Nam
 Khóahọc: 2020-2023. Hệ:Cử nhân
-Ngành học: Công nghệ thông tin và Truyền thông
+Ngành học: Công nghệ thông tin và Truyền thông"

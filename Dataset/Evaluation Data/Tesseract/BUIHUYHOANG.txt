@@ -1,0 +1,19 @@
+Original:
+"Full name: BUI HUY HOANG
+DoB: 11/12/2003 Gender: Male
+Intake: 2021-2024 Course: Bachelor
+Major: Information and Communication
+Technology
+
+BI12-170
+Validity: 30/10/2024"
+
+OCR generate:
+"Full name: BUI HUY HOANG
+DoB : 11/12/2003 Gender: Male
+Intake : 2021-2024 Course: Bachelor
+Vi, Major __: Information and Communication
+Technology
+
+BI12-170
+Validity: 30/10/2024"
